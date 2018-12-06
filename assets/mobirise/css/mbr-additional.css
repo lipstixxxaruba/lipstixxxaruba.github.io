@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Dancing+Script:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:300,400,700);
-@import url(https://fonts.googleapis.com/css?family=Cinzel:400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Comfortaa:300,400,700);
 
 
 
@@ -43,11 +43,11 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Cinzel', serif;
-  font-size: 1.6rem;
+  font-family: 'Comfortaa', display;
+  font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.56rem;
+  font-size: 2.4rem;
 }
 .display-7 {
   font-family: 'Oxygen', sans-serif;
@@ -78,9 +78,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.28rem;
-    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.2rem;
+    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -134,7 +134,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #7f1933 !important;
+  background-color: #f9d0da !important;
 }
 .bg-success {
   background-color: #232323 !important;
@@ -150,23 +150,23 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #7f1933 !important;
-  border-color: #7f1933 !important;
-  color: #ffffff !important;
+  background-color: #f9d0da !important;
+  border-color: #f9d0da !important;
+  color: #b3173d !important;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary.focus,
 .btn-primary.active {
-  color: #ffffff !important;
-  background-color: #3f0c19 !important;
-  border-color: #3f0c19 !important;
+  color: #b3173d !important;
+  background-color: #f08ca5 !important;
+  border-color: #f08ca5 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
-  color: #ffffff !important;
-  background-color: #3f0c19 !important;
-  border-color: #3f0c19 !important;
+  color: #b3173d !important;
+  background-color: #f08ca5 !important;
+  border-color: #f08ca5 !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -314,22 +314,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #2a0811;
-  color: #2a0811;
+  border-color: #ed7693;
+  color: #ed7693;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
-  color: #ffffff;
-  background-color: #7f1933;
-  border-color: #7f1933;
+  color: #b3173d;
+  background-color: #f9d0da;
+  border-color: #f9d0da;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
-  color: #ffffff !important;
-  background-color: #7f1933 !important;
-  border-color: #7f1933 !important;
+  color: #b3173d !important;
+  background-color: #f9d0da !important;
+  border-color: #f9d0da !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -466,7 +466,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #7f1933 !important;
+  color: #f9d0da !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -491,7 +491,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #2a0811 !important;
+  color: #ed7693 !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -549,9 +549,9 @@ a.text-black:focus {
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #7f1933;
-  border-color: #7f1933;
-  color: #ffffff;
+  background-color: #f9d0da;
+  border-color: #f9d0da;
+  color: #ca1a45;
 }
 .mbr-gallery-filter li.active .btn:focus {
   box-shadow: none;
@@ -567,11 +567,11 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #7f1933;
+  color: #f9d0da;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #d93e66;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -691,7 +691,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #7f1933;
+  border-color: #f9d0da;
   border-width: 3px;
 }
 ul,
@@ -780,7 +780,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #7f1933;
+  border-color: #f9d0da;
   color: #232323;
   cursor: pointer;
 }
@@ -791,7 +791,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #7f1933;
+  background: #f9d0da;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -799,11 +799,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #7f1933;
+  background: #f9d0da;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #7f1933;
+  color: #f9d0da;
 }
 .footer3 input[type="email"],
 .footer4 input[type="email"] {
@@ -1583,7 +1583,7 @@ body {
   }
 }
 .cid-qT6wGGzq2e .firstColumn {
-  color: #ff0000;
+  color: #f63f3f;
 }
 .cid-qT6wGGzq2e .subtext-1 P {
   text-align: center;
@@ -2487,7 +2487,7 @@ body {
 .cid-r8GmpJEz8V {
   padding-top: 45px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/lipstixxx-escort-aruba-call-now-1920x9005.jpg");
+  background-image: url("../../../assets/images/lipstixxx-escort-aruba-call-now-1920x90010.jpg");
 }
 .cid-r8GmpJEz8V .mbr-figure {
   margin: 0 auto;
@@ -2923,7 +2923,7 @@ body {
 }
 .cid-qSiBIthgOf .foot-title {
   text-align: center;
-  color: #ff3366;
+  color: #ff7f9f;
 }
 .cid-qSiBIthgOf .form-text {
   color: #ffffff;
