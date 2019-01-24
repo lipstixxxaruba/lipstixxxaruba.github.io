@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Oxygen:300,400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:300,400,700);
 
 
 
@@ -21,7 +21,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 2.8rem;
 }
 .display-1 > .mbr-iconfont {
@@ -2515,15 +2515,15 @@ body {
   }
 }
 .cid-r8Gmvpf4rl {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-r8Gmvpf4rl .mbr-section-subtitle {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-r8Gmvpf4rl H2 {
-  color: #ff3366;
+  color: #ff7f9f;
 }
 .cid-qUh7RRMndG {
   padding-top: 15px;
@@ -2810,15 +2810,36 @@ body {
   color: #ffffff;
 }
 .cid-r8GnJEDZYm {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-r8GnJEDZYm .mbr-section-subtitle {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-r8GnJEDZYm H2 {
-  color: #ff3366;
+  color: #ff7f9f;
+}
+.cid-rg7ctPyxgw {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #020202;
+  overflow: hidden !important;
+}
+.cid-rg7ctPyxgw .container-fluid {
+  padding: 0 3rem;
+}
+.cid-rg7ctPyxgw .animated-element {
+  color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-rg7ctPyxgw .container-fluid {
+    padding: 0 1rem;
+  }
+}
+.cid-rg7ctPyxgw .mbr-section-subtitle,
+.cid-rg7ctPyxgw .mbr-section-btn {
+  color: #000000;
 }
 .cid-qSiBIthgOf {
   padding-top: 30px;
