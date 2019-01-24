@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:300,400,700);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
@@ -22,10 +23,10 @@ body {
 }
 .display-1 {
   font-family: 'Oxygen', sans-serif;
-  font-size: 3.8rem;
+  font-size: 2.8rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.08rem;
+  font-size: 4.48rem;
 }
 .display-2 {
   font-family: 'Oxygen', sans-serif;
@@ -42,11 +43,11 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Oxygen', sans-serif;
-  font-size: 1.5rem;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.2rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 3.52rem;
 }
 .display-7 {
   font-family: 'Roboto', sans-serif;
@@ -62,9 +63,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.04rem;
-    font-size: calc( 1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.24rem;
+    font-size: calc( 1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.44rem;
@@ -77,9 +78,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.76rem;
+    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1394,6 +1395,40 @@ body {
 .cid-rg6TSgc7av .mbr-section-btn {
   color: #ff3366;
 }
+.cid-rg75qoOGs7 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #232323;
+}
+.cid-rg75qoOGs7 .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-rg75qoOGs7 H2 {
+  color: #ff7f9f;
+}
+.cid-qT6BxNzMON {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/lipstixxx-escort-aruba-services-1366x734.png");
+  overflow: hidden !important;
+}
+.cid-qT6BxNzMON .container-fluid {
+  padding: 0 3rem;
+}
+.cid-qT6BxNzMON .animated-element {
+  color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-qT6BxNzMON .container-fluid {
+    padding: 0 1rem;
+  }
+}
+.cid-qT6BxNzMON H4 {
+  color: #ff7f9f;
+}
+.cid-qT6BxNzMON .mbr-section-title SPAN {
+  color: #ffffff;
+}
 .cid-r7EjDldFWN {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1414,27 +1449,6 @@ body {
 .cid-r7EjDldFWN .mbr-section-subtitle,
 .cid-r7EjDldFWN .mbr-section-btn {
   color: #000000;
-}
-.cid-qT6BxNzMON {
-  background-image: url("../../../assets/images/lipstixxx-escort-aruba-services-1366x734.png");
-  overflow: hidden !important;
-}
-.cid-qT6BxNzMON .container-fluid {
-  padding: 0 3rem;
-}
-.cid-qT6BxNzMON .animated-element {
-  color: #ffffff;
-}
-@media (max-width: 767px) {
-  .cid-qT6BxNzMON .container-fluid {
-    padding: 0 1rem;
-  }
-}
-.cid-qT6BxNzMON H4 {
-  color: #ff7f9f;
-}
-.cid-qT6BxNzMON .mbr-section-title SPAN {
-  color: #ffffff;
 }
 .cid-qT6wGGzq2e {
   padding-top: 15px;
