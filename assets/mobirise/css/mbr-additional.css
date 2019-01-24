@@ -22,10 +22,10 @@ body {
 }
 .display-1 {
   font-family: 'Oxygen', sans-serif;
-  font-size: 3.5rem;
+  font-size: 3.8rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 5.6rem;
+  font-size: 6.08rem;
 }
 .display-2 {
   font-family: 'Oxygen', sans-serif;
@@ -62,9 +62,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 2.8rem;
-    font-size: calc( 1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.875rem + (3.5 - 1.875) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 3.04rem;
+    font-size: calc( 1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.98rem + (3.8 - 1.98) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 1.44rem;
@@ -139,7 +139,7 @@ body {
   background-color: #232323 !important;
 }
 .bg-info {
-  background-color: #7f1933 !important;
+  background-color: #da6eab !important;
 }
 .bg-warning {
   background-color: #cc2952 !important;
@@ -189,8 +189,8 @@ body {
 }
 .btn-info,
 .btn-info:active {
-  background-color: #7f1933 !important;
-  border-color: #7f1933 !important;
+  background-color: #da6eab !important;
+  border-color: #da6eab !important;
   color: #ffffff !important;
 }
 .btn-info:hover,
@@ -198,14 +198,14 @@ body {
 .btn-info.focus,
 .btn-info.active {
   color: #ffffff !important;
-  background-color: #3f0c19 !important;
-  border-color: #3f0c19 !important;
+  background-color: #c83387 !important;
+  border-color: #c83387 !important;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #3f0c19 !important;
-  border-color: #3f0c19 !important;
+  background-color: #c83387 !important;
+  border-color: #c83387 !important;
 }
 .btn-success,
 .btn-success:active {
@@ -353,22 +353,22 @@ body {
 .btn-info-outline,
 .btn-info-outline:active {
   background: none;
-  border-color: #2a0811;
-  color: #2a0811;
+  border-color: #b42e7a;
+  color: #b42e7a;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
 .btn-info-outline.focus,
 .btn-info-outline.active {
   color: #ffffff;
-  background-color: #7f1933;
-  border-color: #7f1933;
+  background-color: #da6eab;
+  border-color: #da6eab;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #7f1933 !important;
-  border-color: #7f1933 !important;
+  background-color: #da6eab !important;
+  border-color: #da6eab !important;
 }
 .btn-success-outline,
 .btn-success-outline:active {
@@ -474,7 +474,7 @@ body {
   color: #232323 !important;
 }
 .text-info {
-  color: #7f1933 !important;
+  color: #da6eab !important;
 }
 .text-warning {
   color: #cc2952 !important;
@@ -502,7 +502,7 @@ a.text-success:focus {
 }
 a.text-info:hover,
 a.text-info:focus {
-  color: #2a0811 !important;
+  color: #b42e7a !important;
 }
 a.text-warning:hover,
 a.text-warning:focus {
@@ -524,7 +524,7 @@ a.text-black:focus {
   background-color: #70c770;
 }
 .alert-info {
-  background-color: #7f1933;
+  background-color: #da6eab;
 }
 .alert-warning {
   background-color: #cc2952;
@@ -578,7 +578,7 @@ a:hover {
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #d93e66;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -1382,30 +1382,22 @@ body {
     flex: auto!important;
   }
 }
-.cid-qTBIjOLKHw {
-  padding-top: 45px;
+.cid-rg6TSgc7av {
+  padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/aruba-escorts-lipstixxx-1600x900.jpg");
+  background-image: url("../../../assets/images/lipstixxx-aruba-escort-services-1600x900.jpg");
 }
-.cid-qTBIjOLKHw .mbr-figure {
-  margin: 0 auto;
-  width: 100%;
-  display: flex;
-  justify-content: center;
+.cid-rg6TSgc7av SPAN {
+  color: #ffffff;
 }
-.cid-qTBIjOLKHw .mbr-figure img {
-  height: 100%;
-  margin: 0 auto;
-}
-@media (max-width: 991px) {
-  .cid-qTBIjOLKHw .mbr-figure img {
-    width: 100% !important;
-  }
+.cid-rg6TSgc7av .mbr-text,
+.cid-rg6TSgc7av .mbr-section-btn {
+  color: #ff3366;
 }
 .cid-r7EjDldFWN {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/lipstixxx-bg-black-2000x1123.png");
+  background-color: #232323;
   overflow: hidden !important;
 }
 .cid-r7EjDldFWN .container-fluid {
@@ -1424,7 +1416,7 @@ body {
   color: #000000;
 }
 .cid-qT6BxNzMON {
-  background-image: url("../../../assets/images/lipstixxx-escort-aruba-1920x1080.jpg");
+  background-image: url("../../../assets/images/lipstixxx-escort-aruba-services-1366x734.png");
   overflow: hidden !important;
 }
 .cid-qT6BxNzMON .container-fluid {
@@ -1437,6 +1429,12 @@ body {
   .cid-qT6BxNzMON .container-fluid {
     padding: 0 1rem;
   }
+}
+.cid-qT6BxNzMON H4 {
+  color: #ff7f9f;
+}
+.cid-qT6BxNzMON .mbr-section-title SPAN {
+  color: #ffffff;
 }
 .cid-qT6wGGzq2e {
   padding-top: 15px;
