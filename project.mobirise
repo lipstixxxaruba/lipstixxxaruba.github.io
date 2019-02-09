@@ -45,7 +45,7 @@
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-130208092-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-130208092-1');\r\n</script>",
     "versionFirst": "4.5.4",
-    "uniqCompNum": 64,
+    "uniqCompNum": 63,
     "versionPublish": "4.8.8",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1959,7 +1959,7 @@
                 "title": "Please note:",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "At this moment we dont have any girls available!<br>Available Now - Private Red Light District Tour with a local private guide.",
+                "text": "At this moment we dont have any girls available!<br>Available now only - Private Red Light District Tour with a local private guide.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.2"
               }
