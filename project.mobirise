@@ -222,7 +222,7 @@
         "title": "Lipstixxx Aruba Escort Services",
         "meta_descr": "💋Lipstixxx Aruba offers sensual, erotic fun for the discerning gentlemen. Our selection of seductive, sassy and sexy ladies offer massage and full escort services for a tantalising experience that you won’t forget.",
         "header_custom": "<meta name=\"google-site-verification\" content=\"7Qb0Hqp6dRIAE8eF837McQRSfN19AVQBzQHcRsQx-Ps\" />\n\n<meta name=\"msvalidate.01\" content=\"48A2552422A41AEBFA19C1A66C5369A5\" />\n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"http://schema.org/\",\n  \"@type\": \"WebSite\",\n  \"name\": \"Lipstixxx Aruba\",\n  \"alternateName\": \"Aruba Escort Services\",\n  \"url\": \"https://lipstixxxaruba.github.io/\"\n}\n</script>",
-        "footer_custom": "",
+        "footer_custom": "<script type=\"text/javascript\">\n    function downloadJSAtOnload() {\n        var element = document.createElement(\"script\");\n        element.src = \"example.js\";\n        document.body.appendChild(element);\n    }\n    if (window.addEventListener)\n        window.addEventListener(\"load\", downloadJSAtOnload, false);\n    else if (window.attachEvent)\n        window.attachEvent(\"onload\", downloadJSAtOnload);\n    else window.onload = downloadJSAtOnload;\n</script>",
         "html_before": ""
       },
       "components": [
@@ -1190,7 +1190,8 @@
         "meta_descr": "Latina Escorts in Aruba  variety of beautiful women and the time of your life awaits with Lipstixxx Escorts Aruba. Our stunning escorts are just a phone call away. So what are you waiting for?",
         "title": "Escorts Aruba",
         "order": 1,
-        "header_custom": "<meta name=\"google-site-verification\" content=\"7Qb0Hqp6dRIAE8eF837McQRSfN19AVQBzQHcRsQx-Ps\" />\n\n<meta name=\"msvalidate.01\" content=\"48A2552422A41AEBFA19C1A66C5369A5\" />"
+        "header_custom": "<meta name=\"google-site-verification\" content=\"7Qb0Hqp6dRIAE8eF837McQRSfN19AVQBzQHcRsQx-Ps\" />\n\n<meta name=\"msvalidate.01\" content=\"48A2552422A41AEBFA19C1A66C5369A5\" />",
+        "footer_custom": "<script type=\"text/javascript\">\n    function downloadJSAtOnload() {\n        var element = document.createElement(\"script\");\n        element.src = \"example.js\";\n        document.body.appendChild(element);\n    }\n    if (window.addEventListener)\n        window.addEventListener(\"load\", downloadJSAtOnload, false);\n    else if (window.attachEvent)\n        window.attachEvent(\"onload\", downloadJSAtOnload);\n    else window.onload = downloadJSAtOnload;\n</script>"
       },
       "components": [
         {
